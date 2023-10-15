@@ -90,9 +90,7 @@ Demo Link Comming soon [Online Retail Shop Web API])
 
 ## 👨‍💻 Authors <a name="author"></a>
 
-I worked collectively on both the frontend and backend development, dividing features among us to ensure a well-rounded and efficient system.
-
-Feel free to reach out to us with your suggestions, ideas, or feedback. We are always eager to improve our website.
+Feel free to reach out to us with your suggestions, ideas, or feedback. We are always eager to improve our services.
 
 👤 **Tanveer Ahmad**
 
