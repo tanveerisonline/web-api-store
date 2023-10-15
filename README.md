@@ -72,7 +72,19 @@ Demo Link Comming soon [Online Retail Shop Web API])
 - npm run dev
 - npm run test
 
-```
+- ### Usage
+- Start the application and make requests to the specified endpoints.
+
+- ### Endpoints
+
+- ### Product Controller
+- POST /api/products: Add a new product.
+- PUT /api/products/{id}: Update an existing product.
+- DELETE /api/products/{id}: Delete a product.
+
+- ### Order Controller
+- POST /api/orders: Place a new order.
+- DELETE /api/orders/{id}: Cancel an order.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,5 +114,6 @@ If you like this project, please consider giving it a ⭐.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+```
 
 ```
